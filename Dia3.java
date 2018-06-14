@@ -11,7 +11,6 @@ public class Dia3 {
             System.exit(0);
 
         }
-
     }
     void print()
     {
