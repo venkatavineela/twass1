@@ -1,6 +1,6 @@
 public class FizzBuzz {
     int i;
-    void fizbuz()
+    void fizzbuzz()
     {
         for(i=1; i<=100; i++)
         {
@@ -26,6 +26,6 @@ public class FizzBuzz {
     public static void main(String[] args)
     {
         FizzBuzz fb=new FizzBuzz();
-        fb.fizbuz();
+        fb.fizzbuzz();
     }
 }
